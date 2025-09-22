@@ -1,5 +1,14 @@
-# Previsão do tempo
+<h1 align="center"> Weather Forecast</h1>
 
-Treinamento da implementação de API
+Practice on how to connect with an API (geocoding) 
 
-Obs: Lembrar de rodar um 'pip install requests' antes de rodar o código
+# Features
+- `Shows current forecast`
+- `Shows current rain probability`
+- `Shows weather forecast and rain probability for the next 5 days` 
+- `OBS: Other weather informations can be added`
+
+# Prerequisites 
+Before you begin, remember to install 'requests' library using your terminal 
+```bash
+pip install requests
